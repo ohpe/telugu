@@ -10,6 +10,8 @@ You need to close this tab RIGHT NOW. Go save your work. Come back. Enjoy!
 
 **WARNING** Despite [https://github.com/szhu/3030](https://github.com/szhu/3030) this game doesn't crash the tab, but the entire browser!
 
+
+
 <!-- GAME -->
 
 **Start here… stay with the bears!**
@@ -90,6 +92,14 @@ You need to close this tab RIGHT NOW. Go save your work. Come back. Enjoy!
 [onoe]: http://www.google.com/%E0%B0%9C%E0%B1%8D%E0%B0%9E%E2%80%8C%E0%B0%BE
 
 <!-- GAME -->
+
+What's this about
+-----------------
+I don’t know what's going on here and what's the relation between Chrome and Apple's products. 
+Any hint/feedback is welcom.
+
+A nice "character-dissection" can be found at [Picking Apart the Crashing iOS String](https://manishearth.github.io/blog/2018/02/15/picking-apart-the-crashing-ios-string/) by [@Manishearth](https://twitter.com/Manishearth)
+
 
 Credits & License
 -----------------
