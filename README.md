@@ -4,6 +4,7 @@
 Mouse your way through the map without touching the deadly trees!
 
 **NOTE** It works only in Chrome in a Apple product
+
 **WARNING:** Do you have important, unsaved work open in other tabs?  
 You need to close this tab RIGHT NOW. Go save your work. Come back. Enjoy!
 
