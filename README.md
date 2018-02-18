@@ -3,7 +3,10 @@
 
 Mouse your way through the map without touching the deadly trees!
 
-**NOTE** It works only in Chrome in a Apple product
+**REQUIREMENTS** 
+Any Apple product, newer versions of iOS or OSX. (*For example in iPad 9.3.5 doesn't work*)
+- Google Chrome (actions supported: click and mouseover)
+- Brave (actions supported: click)
 
 **WARNING:** Do you have important, unsaved work open in other tabs?  
 You need to close this tab RIGHT NOW. Go save your work. Come back. Enjoy!
